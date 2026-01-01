@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         실시간 심박수 주입기 (V2)
-// @namespace    http://tampermonkey.net/
+// @name         실시간 심박수 주입기 
+// @namespace    https://github.com/omgworks/Crack_util
 // @version      1.3
 // @description  심박수 연결 및 Alt+우클릭 주입
 // @author       으악갹
