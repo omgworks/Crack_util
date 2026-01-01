@@ -1,6 +1,6 @@
 # Crack_util
 ## 크랙용 심박수 삽입기.
-<a href="https://example.com/scripts/my_tool.user.js](https://www.tampermonkey.net/script_installation.php#url=https://github.com/omgworks/Crack_util/raw/refs/heads/main/HB%20injecter.user.js">심박수 삽입기 설치하기</a>
+<a href="https://www.tampermonkey.net/script_installation.php#url=https://github.com/omgworks/Crack_util/raw/refs/heads/main/HB%20injecter.user.js">심박수 삽입기 설치하기</a>
 
 크랙에서 사용하는 심박수 주입기 입니다.
 
